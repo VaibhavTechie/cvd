@@ -1,0 +1,5 @@
+DEPT_ID,DEPT_NAME,MANAGER_ID,LOCATION_ID
+D001,Angioplasty,NULL,L001
+D002,Cardiac Catheterization,NULL,L002
+D003,Electrocardiogram,NULL,L001
+D004,Echocardiogram,NULL,L002
